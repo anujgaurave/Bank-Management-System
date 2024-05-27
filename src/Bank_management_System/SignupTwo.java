@@ -22,7 +22,7 @@ public class SignupTwo extends JFrame implements ActionListener{
         setSize(850,800);
         setLocation(350,10);
 
-//        kkk
+//       signup two
 
 
         additionalDetails=new JLabel("Page 2 : Additional Details of ");
